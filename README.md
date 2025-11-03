@@ -7,20 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=waizkhan12&label=Profile%20Views&color=0e75b6&style=flat" alt="waizkhan12" />
 </p>
 
-<!-- Trophy Section -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=waizkhan12&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="waizkhan12" />
-  </a>
-</p>
-
 ---
 
 <!-- About Me -->
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-  I’m an <b>Automation Engineer</b> and <b>Python Developer</b> focused on building AI-assisted systems, workflow automation, and data-driven tools.
-  I enjoy creating practical solutions that merge machine intelligence with real-world engineering.
+  I’m an <b>Automation Engineer</b> and <b>Python Developer</b> focused on building AI-assisted systems, workflow automation, and data-driven tools.<br>
+  Passionate about merging software intelligence with real-world engineering to create practical, impactful solutions.
 </p>
 
 ---
